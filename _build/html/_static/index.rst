@@ -10,8 +10,6 @@ Build Distributed Multicloud Blockchain Network on Your Preferred Cloud VMs (AWS
 
 Deploy Blockchain components on different cloud platforms using Kubernetes and manage them all in one place through our innovative Hyperledger Fabric Enterprise Network Management Solution.
 
-
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
