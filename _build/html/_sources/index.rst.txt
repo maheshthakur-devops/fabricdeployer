@@ -6,7 +6,7 @@
 Home
 ====
 
-.. image:: /images/fabdep.png
+.. image::/images/fabdep.png
 
 Build Distributed Multicloud Blockchain Network on Your Preferred Cloud VMs (AWS, Azure, or any other cloud environment)
 
