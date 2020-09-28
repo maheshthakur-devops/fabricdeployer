@@ -28,12 +28,6 @@ version = u'0.0.1'
 # The full version, including alpha/beta/rc tags
 release = u'0.0.1'
 
-html_context = {
-  "display_github": False, # Add 'Edit on Github' link instead of 'View page source'
-  "last_updated": True,
-  "commit": False,
-}
-
 # -- General configuration ---------------------------------------------------
 
 # If your documentation needs a minimal Sphinx version, state it here.
@@ -106,6 +100,7 @@ html_static_path = ['.']
 # 'searchbox.html']``.
 #
 # html_sidebars = {}
+html_show_sourcelink = False
 
 # -- Options for HTMLHelp output ---------------------------------------------
 
